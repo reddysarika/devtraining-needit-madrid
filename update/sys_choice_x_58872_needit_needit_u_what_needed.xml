@@ -23,6 +23,25 @@
             <dependent_value/>
             <element>u_what_needed</element>
             <hint/>
+            <inactive>true</inactive>
+            <label>Your Department choice 2</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-13 09:45:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2e9651c5dbc6f300fded273748961960</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-13 09:45:11</sys_updated_on>
+            <value>your department choice 2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_what_needed</element>
+            <hint/>
             <inactive>false</inactive>
             <label>Human Resources 2</label>
             <language>en</language>
@@ -147,9 +166,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>17de4181dbc6f300fded273748961934</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-06-13 09:11:22</sys_updated_on>
+            <sys_updated_on>2019-06-13 09:45:10</sys_updated_on>
             <value>your department choice 3</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -166,9 +185,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>dfde4181dbc6f300fded273748961935</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-06-13 09:11:22</sys_updated_on>
+            <sys_updated_on>2019-06-13 09:45:11</sys_updated_on>
             <value>Choice 3</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
